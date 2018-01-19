@@ -2,7 +2,7 @@
 # !! EVERYTHING is CASE SENSITIVE !!
 # Workshop Item Id
 # (set to zero to create a new workshop item, this file will be updated with the workship item id from Steam)
-0
+1274319197
 
 # Upload this to Steam (YES/NO). Will be set to NO after upload!
 YES
