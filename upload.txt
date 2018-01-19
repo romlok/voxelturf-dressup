@@ -1,0 +1,47 @@
+# File to upload mods to the Steam Workshop
+# !! EVERYTHING is CASE SENSITIVE !!
+# Workshop Item Id
+# (set to zero to create a new workshop item, this file will be updated with the workship item id from Steam)
+0
+
+# Upload this to Steam (YES/NO). Will be set to NO after upload!
+YES
+
+# Title. This is what will be displayed on the workshop page. Must not be "DefaultTitle"
+Romlok plays dress-up
+
+# Directory that contains the files. Must not be "Mod_Directory_Name_Here"
+r4k_dressup
+
+# Visibility. Must be PUBLIC, PRIVATE or FRIENDS_ONLY
+PRIVATE
+
+# Description. Use as many lines as you like. End with END_DESCRIPTION
+A small collection of player skins for Voxel Turf.
+
+Currently includes:
+[list]
+[*]Tux the Penguin-thing
+[*]Girl wearing a Pikachu onesie
+[*]Templatey McTemplateface
+[/list]
+
+Feel free to copy and modify these skins as desired. Improvements and additions are welcome at: https://github.com/romlok/voxelturf-dressup
+
+END_DESCRIPTION
+
+# Change log. Use as many lines as you like. End with END_CHANGES
+First upload, with:
+[list]
+[*]Tux the Penguin-thing
+[*]Girl wearing a Pikachu onesie
+[*]Templatey McTemplateface
+[/list]
+END_CHANGES
+
+# Tags. Use semicolon seperated list
+# Common tags: lotpack ; graphics ; sfx ; music ; maps ; missions ; vehicles ; scripts ; weapons ; ui 
+graphics ; skins
+
+# Preview Pictures. Tag with "PICTURE ; path/to/picture.jpg" or png or gif. One per line. Only the first is used
+PICTURE ; r4k_dressup/picture.png
