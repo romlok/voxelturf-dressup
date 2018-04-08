@@ -7,6 +7,7 @@ Currently includes:
 [list]
 [*]Tux the Penguin-thing
 [*]Girl wearing a Pikachu onesie
+[*]Boy wearing a Pikachu onesie
 [*]Templatey McTemplateface
 [/list]
 

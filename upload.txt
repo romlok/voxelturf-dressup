@@ -14,7 +14,7 @@ Romlok plays dress-up
 r4k_dressup
 
 # Visibility. Must be PUBLIC, PRIVATE or FRIENDS_ONLY
-PRIVATE
+PUBLIC
 
 # Description. Use as many lines as you like. End with END_DESCRIPTION
 A small collection of player skins for Voxel Turf.
@@ -23,6 +23,7 @@ Currently includes:
 [list]
 [*]Tux the Penguin-thing
 [*]Girl wearing a Pikachu onesie
+[*]Boy wearing a Pikachu onesie
 [*]Templatey McTemplateface
 [/list]
 
@@ -31,11 +32,9 @@ Feel free to copy and modify these skins as desired. Improvements and additions 
 END_DESCRIPTION
 
 # Change log. Use as many lines as you like. End with END_CHANGES
-First upload, with:
+Because I was asked nicely, and it wasn't too much work:
 [list]
-[*]Tux the Penguin-thing
-[*]Girl wearing a Pikachu onesie
-[*]Templatey McTemplateface
+[*]Boy wearing a Pikachu onesie
 [/list]
 END_CHANGES
 
